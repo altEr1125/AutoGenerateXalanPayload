@@ -1,3 +1,5 @@
+对工具进行了debug，包括但不限于修复了常量池长度大于0x0702时的处理异常、初始payload不存在标识位等情况。最终成功在mac上实现了payload的自动生成
+
 # AutoGenerateXalanPayload
 
 ### 简介
